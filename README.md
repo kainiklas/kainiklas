@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hi there! I'm Kai Niklas.
+
+I am Principal Architect & Consultant at SAP located in Germany.
+
+## Connect with me
+💬 Twitter: twitter.com/kniklas , 
+💬 Linkedin: linkedin.com/in/kai-niklas
 
 <!--
 **kainiklas/kainiklas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
