@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Kai Niklas.
 
-I am Principal Architect & Consultant at SAP located in Germany.
+I am Principal Architect & Consultant at SAP Fioneer located in Germany.
 
 ## Connect with me
 
